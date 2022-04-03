@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: a6a44a92fe7a8ec40b669713636891e3
+timeCreated: 1440415876
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCube887
+    100004: pCube888
+    100006: pCube889
+    100008: pCube890
+    100010: pCube891
+    100012: pCube892
+    100014: pCube893
+    100016: pCube894
+    100018: pCube895
+    100020: pCube896
+    100022: pCube897
+    100024: pCube898
+    100026: pCube899
+    100028: pCube900
+    100030: pCube901
+    100032: polySurface207
+    100034: polySurface208
+    100036: polySurface211
+    100038: pPlane87
+    100040: pPlane88
+    100042: pPlane89
+    100044: pPlane90
+    400000: //RootNode
+    400002: pCube887
+    400004: pCube888
+    400006: pCube889
+    400008: pCube890
+    400010: pCube891
+    400012: pCube892
+    400014: pCube893
+    400016: pCube894
+    400018: pCube895
+    400020: pCube896
+    400022: pCube897
+    400024: pCube898
+    400026: pCube899
+    400028: pCube900
+    400030: pCube901
+    400032: polySurface207
+    400034: polySurface208
+    400036: polySurface211
+    400038: pPlane87
+    400040: pPlane88
+    400042: pPlane89
+    400044: pPlane90
+    2300000: pCube887
+    2300002: pCube888
+    2300004: pCube889
+    2300006: pCube890
+    2300008: pCube891
+    2300010: pCube892
+    2300012: pCube893
+    2300014: pCube894
+    2300016: pCube895
+    2300018: pCube896
+    2300020: pCube897
+    2300022: pCube898
+    2300024: pCube899
+    2300026: pCube900
+    2300028: pCube901
+    2300030: polySurface207
+    2300032: polySurface208
+    2300034: polySurface211
+    2300036: pPlane87
+    2300038: pPlane88
+    2300040: pPlane89
+    2300042: pPlane90
+    3300000: pCube887
+    3300002: pCube888
+    3300004: pCube889
+    3300006: pCube890
+    3300008: pCube891
+    3300010: pCube892
+    3300012: pCube893
+    3300014: pCube894
+    3300016: pCube895
+    3300018: pCube896
+    3300020: pCube897
+    3300022: pCube898
+    3300024: pCube899
+    3300026: pCube900
+    3300028: pCube901
+    3300030: polySurface207
+    3300032: polySurface208
+    3300034: polySurface211
+    3300036: pPlane87
+    3300038: pPlane88
+    3300040: pPlane89
+    3300042: pPlane90
+    4300000: pPlane87
+    4300002: pPlane88
+    4300004: pCube887
+    4300006: pCube888
+    4300008: pCube889
+    4300010: pCube890
+    4300012: pPlane89
+    4300014: pCube891
+    4300016: polySurface207
+    4300018: pCube892
+    4300020: pCube893
+    4300022: pCube894
+    4300024: polySurface208
+    4300026: pCube895
+    4300028: pCube896
+    4300030: polySurface211
+    4300032: pCube897
+    4300034: pCube898
+    4300036: pCube899
+    4300038: pCube900
+    4300040: pCube901
+    4300042: pPlane90
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
